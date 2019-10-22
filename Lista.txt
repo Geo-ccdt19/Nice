@@ -1,0 +1,4 @@
+Comprar tiquetes
+definir fecha
+------------------
+check in
